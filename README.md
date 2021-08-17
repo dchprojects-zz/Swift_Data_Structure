@@ -1,4 +1,3 @@
-Programming Data Structure
-
-## Stack
-## Queue
+## Programming Data Structure
+- Stack
+- Queue
